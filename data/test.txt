@@ -1,0 +1,2 @@
+I am Afshin. Testing here. We count the words here and put them into ignite cache using apache ignite.
+The test should show 3 for the  word test.
