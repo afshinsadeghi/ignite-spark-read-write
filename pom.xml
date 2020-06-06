@@ -13,7 +13,7 @@
         <scala.version.major>2.11</scala.version.major>
         <scala.version.minor>8</scala.version.minor>
         <scala.version>${scala.version.major}.${scala.version.minor}</scala.version>
-        <ignite.version>2.7.6</ignite.version>
+        <ignite.version>2.8.1</ignite.version>
     </properties>
 
     <dependencies>
